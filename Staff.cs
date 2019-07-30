@@ -25,7 +25,7 @@ namespace Lab12ClassUml
 
         public override string ToString()
         {
-            return $"{Type}: {Name} {Address} {School} {Pay}";
+            return $"{Type}: Name:{Name} Address:{Address} School:{School} Pay:{Pay}";
         }
     }
 }
