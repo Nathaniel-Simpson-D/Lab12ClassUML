@@ -1,0 +1,7 @@
+C:\Clabs\Lab12ClassUml\bin\Debug\Lab12ClassUml.exe.config
+C:\Clabs\Lab12ClassUml\bin\Debug\Lab12ClassUml.exe
+C:\Clabs\Lab12ClassUml\bin\Debug\Lab12ClassUml.pdb
+C:\Clabs\Lab12ClassUml\obj\Debug\Lab12ClassUml.csprojAssemblyReference.cache
+C:\Clabs\Lab12ClassUml\obj\Debug\Lab12ClassUml.csproj.CoreCompileInputs.cache
+C:\Clabs\Lab12ClassUml\obj\Debug\Lab12ClassUml.exe
+C:\Clabs\Lab12ClassUml\obj\Debug\Lab12ClassUml.pdb
